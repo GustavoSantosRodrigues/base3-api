@@ -10,7 +10,6 @@
                     "images_category": "/images/eventos.png"
                 }
             ],
-
             "isFeatured": true,
             "orderFeatured": 1,
             "card": {
@@ -94,14 +93,13 @@
                     "images_category": "/images/eventos.png"
                 }
             ],
-
             "isFeatured": true,
             "orderFeatured": 2,
             "card": {
                 "title": "Cipatex Inpulse",
                 "subtitle": "Conceito de coleção",
                 "description": "Cipatex Inpulse - Conceito de coleção",
-                "image": "/images/michelin-card.png"
+                "image": "/images/cipatexCard.png"
             },
             "hero": {
                 "bannerImage": "/images/banner-cipatex.png",
@@ -161,6 +159,5 @@
                 }
             }
         }
-
     ]
 }
