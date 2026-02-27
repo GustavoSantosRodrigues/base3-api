@@ -292,19 +292,7 @@
                     "items": [
                         {
                             "title": "Conectando Caminhos",
-                            "image": "/images/3mconectando-caminhos.png"
-                        },
-                        {
-                            "title": "Melhorando Vida",
-                            "image": "/images/3mmelhorando-vida.png"
-                        },
-                        {
-                            "title": "Trabalho Colaborativo",
-                            "image": "/images/3mtrabalho-colaborativo.png"
-                        },
-                        {
-                            "title": "Transportes",
-                            "image": "/images/transportes.png"
+                            "image": "/images/cosan-swiper.jpg"
                         }
                     ]
                 }
@@ -379,6 +367,151 @@
                         {
                             "title": "Bolsa",
                             "image": "/images/bolsa-vendi.jpg"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 6,
+            "slug": "lalamove",
+            "categories": [
+                {
+                    "key": "campanha",
+                    "label": "Campanha",
+                    "images_category": "/images/campanha-icon.png"
+                }
+            ],
+            "isFeatured": true,
+            "orderFeatured": 2,
+            "card": {
+                "title": "LALAMOVE",
+                "subtitle": "Campanha de awareness",
+                "description": "LALAMOVE | FÉRIAS DE VERÃO",
+                "image": "/images/card-lalamove.png"
+            },
+            "hero": {
+                "bannerImage": "/images/banner-lalamove.png",
+                "title": "LALAMOVE",
+                "highlight": "Campanha de awareness",
+                "description": "LALAMOVE | FÉRIAS DE VERÃO"
+            },
+            "sections": [
+                {
+                    "type": "overview",
+                    "chips": [
+                        "Planejamento",
+                        "Digital",
+                        "TV"
+                    ],
+                    "bullets": [
+                        "Planejamento on/off",
+                        "Conceito criativo"
+                    ],
+                    "image": "/images/mao-case.png"
+                },
+                {
+                    "type": "triple",
+                    "items": [
+                        {
+                            "icon": "/images/solução.png",
+                            "title": "SOLUÇÃO",
+                            "text": "O desafio desse job foi capturar a essência das férias de janeiro, mostrando como a LLM pode atender seus clientes mesmo durante esse período. A ideia foi criar um cenário que transmitisse descontração e facilidade, destacando que, independentemente do lugar onde o cliente esteja - na praia ou viajando - a LLM oferece preços competitivos e um atendimento eficiente."
+                        },
+                        {
+                            "icon": "/images/desafio.png",
+                            "title": "DESAFIO",
+                            "text": "O objetivo da campanha foi demonstrar que a LLM continuava presente e acessível para seus clientes durante as férias. Buscamos reforçar a confiança na marca, evidenciando que a LLM é uma parceira que se preocupa em proporcionar boas ofertas e um serviço de qualidade, mesmo em momentos de lazer e descanso."
+                        }
+                    ],
+                    "bigTitle": "Conveniência na palma da mão"
+                }
+            ],
+            "swipers": {
+                "brand": {
+                    "title": "LALAMOVE",
+                    "items": [
+                        {
+                            "title": "Grandes Entregas",
+                            "image": "/images/grandes-entregas.jpg"
+                        },
+                        {
+                            "title": "Cupom",
+                            "image": "/images/cupom.jpg"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 6,
+            "slug": "Veiling | Emoção que ficar no ar",
+            "categories": [
+                {
+                    "key": "campanha",
+                    "label": "Campanha",
+                    "images_category": "/images/campanha-icon.png"
+                }
+            ],
+            "isFeatured": true,
+            "orderFeatured": 2,
+            "card": {
+                "title": "Veiling | Emoção que ficar no ar",
+                "subtitle": "Campanha de institucional",
+                "description": "Veiling | Emoção que ficar no ar",
+                "image": "/images/card-veiling.png"
+            },
+            "hero": {
+                "bannerImage": "/images/banner-veiling.png",
+                "title": "VEILING",
+                "highlight": "Campanha de Ana Hickmann",
+                "description": "Veiling | Emoção que ficar no ar"
+            },
+            "sections": [
+                {
+                    "type": "overview",
+                    "chips": [
+                        "Conceito de campanha",
+                        "TV"
+                    ],
+                    "bullets": [
+                        "Conceito criativo",
+                        "Produção fotográfica"
+                    ],
+                    "image": "/images/mao-case.png"
+                },
+                {
+                    "type": "triple",
+                    "items": [
+                        {
+                            "icon": "/images/solução.png",
+                            "title": "SOLUÇÃO",
+                            "text": "Criar uma campanha que equilibrasse o apelo emocional característico da Veiling Holambra com uma abordagem mais alinhada ao varejo, visando fortalecer a conexão com o consumidor final. "
+                        },
+                        {
+                            "icon": "/images/desafio.png",
+                            "title": "DESAFIO",
+                            "text": "Com a campanha, destacamos o mote “Emoção que fica no ar” ao lado de um visual mais próximo do varejo. Para a comunicação, contamos com o protagonismo da apresentadora Ana Hickmann."
+                        }
+                    ],
+                    "bigTitle": "Como conectamos emoção e vendas."
+                }
+            ],
+            "swipers": {
+                "brand": {
+                    "title": "Veiling",
+                    "items": [
+                        {
+                            "title": "Flor",
+                            "image": "/images/flor-emocao.jpg"
+                        },
+                        {
+                            "title": "Facebook",
+                            "image": "/images/flor-facebook.jpg"
+                        },
+                        {
+                            "title": "Emoção que fica no ar",
+                            "image": "/images/flor-emocao-noar-jpg"
                         }
                     ]
                 }
